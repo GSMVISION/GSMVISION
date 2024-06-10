@@ -17,11 +17,14 @@ Hi! I’m **Mohamed Wassim Guessoum**, a passionate full-stack web developer bas
 ---
 ---
 
-💼 Experience
-Freelance Web Developer at Anatomy Innovation (2023 - Present)
+💼 **Experience**
+
+**Freelance Web Developer at Anatomy Innovation (2023 - Present)**
+
 Developed Creative Learning, a comprehensive online course platform similar to Udemy, featuring user registration, course management, and video streaming.
 Collaborated with a team to deliver high-quality web solutions, focusing on scalable architecture and user-friendly interfaces.
 Worked on various client projects, providing tailored web development solutions using Laravel and Bootstrap.
+
 ---
 
 ## 📫 Contact
