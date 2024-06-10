@@ -15,7 +15,7 @@
 <br>![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GSMVISION&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GSMVISION&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 ![](https://github-readme-stats.vercel.app/api?username=GSMVISION&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GSMVISION&theme=dark&hide_border=false)<br/>
 
