@@ -3,7 +3,8 @@
 
 
 
-## 🌐 Socials:
+## 📮 Drop me a line!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wassim-guessoum/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/GVIISION)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/guessoum_wassim) <br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gvission) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/g.visiiion/?hl=fr) 
