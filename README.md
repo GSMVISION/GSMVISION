@@ -14,7 +14,8 @@
 🔭 I’m currently working at **ANATOMY INNOVATION**. <br>
 📫 How to reach me: g.viision@gmail.com.<br>
 😄 Pronouns: Gvision , Gsm, Guessoum.<br>
-⚡ Fun Fact: Energy drinks add the enjoyment of my coding !<br>
+⚡ Fun fact: energy drinks help me enjoy coding more.
+!<br>
 
 
 # 💻 Technologies Used :
