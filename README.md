@@ -1,6 +1,6 @@
 
 # 💫 Hi I'm  Mohamed Wassim Guessoum
-🚀  I am a Full-Stack Web Developer from Sétif, Algeria. <br> Passionate with building websites where innovation meets code and vision becomes reality.
+🚀  I am a **Full-Stack Web Developer** from Sétif, Algeria. <br> Passionate with building websites where innovation meets code and vision becomes reality.
 
 
 ## 📮 Drop me a line!
@@ -11,7 +11,7 @@
 
 
 # What I currently Do
-🔭 I’m currently working at ANATOMY INNOVATION. <br>
+🔭 I’m currently working at **ANATOMY INNOVATION**. <br>
 📫 How to reach me: g.viision@gmail.com.<br>
 😄 Pronouns: Gvision , Gsm, Guessoum.<br>
 ⚡ Fun Fact: Energy drinks add the enjoyment of my coding !<br>
