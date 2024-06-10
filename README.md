@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Wassim Guessoum</h1>
-<h3 align="center">I’m a Full-Stack Web Developer from Sétif, Algeria, passionate about building web applications and solving complex problems with technology.</h3>
+<h3 align="center">I’m a Full-Stack Web Developer from Sétif, Algeria, passionate about building web sites and solving complex problems with technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsmvision&label=Profile%20views&color=0e75b6&style=flat" alt="gsmvision" /> </p>
 
