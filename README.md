@@ -11,7 +11,7 @@
 
 # 💻 Technologies Used :
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/html-%2345B8D8.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br> ![HTML](https://img.shields.io/badge/html-%2345B8D8.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
